@@ -20,7 +20,6 @@ import { ProductAlertDingComponent } from './product-alert-ding/product-alert-di
     AppComponent,
     TopBarComponent,
     ProductListComponent,
-    ProductAlertsComponent,
     ProductAlertDingComponent
   ],
   bootstrap: [ AppComponent ]
